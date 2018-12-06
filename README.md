@@ -1,5 +1,5 @@
 # conferenceChampion
-This repo contains tools and scripts to assist in gaining tickets to security conferences
+This repo contains tools and scripts to assist in being a Security Conference extroardinaire.
 
 ____________________________________________________________________
 
