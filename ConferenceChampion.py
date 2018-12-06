@@ -8,7 +8,7 @@ import datetime
 import time
 
 myTime = datetime.datetime.now()
-registrationOpen = datetime.datetime(2018, 12, 5, 21, 13, 0)
+registrationOpen = datetime.datetime(2018, 12, 5, 12, 0, 0)
 url = "http://landing.shmoocon.org/" 
 
 print(registrationOpen)
